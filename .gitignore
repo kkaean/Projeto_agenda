@@ -7,3 +7,6 @@ __pycache__/
 *.pyo 
 *.pyd 
 *.docx
+application.spec
+build/
+dist/
